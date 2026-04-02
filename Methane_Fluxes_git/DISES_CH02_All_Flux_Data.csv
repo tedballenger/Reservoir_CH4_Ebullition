@@ -1,0 +1,4 @@
+project_flux_id,datetime_start,datetime_end,total_CH4_flux_lm_raw_mgC_m2_d,diffusive_flux_mgC_m2_d,r2_best_window,ebullitive_lm_raw_mgC_m2_d,diffusive_used_lm_raw_mgC_m2_d,deployment_duration_sec,jump_iqr_k,jump_threshold_pos_ppm_min,jump_threshold_neg_ppm_min,n_candidate_diffusive_windows,site,reservoir,FB_TR,r2_lm_total,adj_r2_lm_total,early_peak_flag
+409,7/8/2024 9:40,7/8/2024 10:25,2.891009717,2.891009717,0.93836606,0,2.891009717,2700,1.5,0.125394337,-0.091267598,29,BVFB,BV,FB,0.403976303,0.39043031,FALSE
+412,7/8/2024 12:33,7/8/2024 13:34,1.543292279,NA,NA,NA,NA,3660,1.5,0.227823927,-0.200974533,0,BVTR,BV,TR,0.088379241,0.073185562,FALSE
+427,7/15/2024 11:58,7/15/2024 12:56,3.317270822,0.21786059,0.42962979,3.099410232,0.21786059,3480,1.5,0.081620932,-0.048972559,33,DTFB,DT,FB,0.386095353,0.375325096,FALSE
